@@ -75,10 +75,6 @@ def shuffle_sets(X, y):
 read_holdout_imgs( "Holdout_RGB_Resized.pkl", (80,60), cv.COLOR_BGR2RGB)
 read_data_imgs("Data_RGB_Not_Resized_turn.pkl", (80,60), cv.COLOR_BGR2RGB)
 
-# display image: used for testing
-#cv.imshow('Window', cropped_image)
-#cv.waitKey(0)
-#cv.destroyAllWindows
 
 
 
