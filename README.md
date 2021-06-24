@@ -9,5 +9,5 @@
 ### MLiS Project Pi Car Trailer
 [Glimpse of live testing](https://www.youtube.com/watch?v=rJPKO2eDU6o)
 
-### Presentation: delivery of methodology
+### Presentation: Delivery of Methodology
 [Video found here](https://web.microsoftstream.com/video/9c2bc0a1-8020-42a4-b12c-dda15e6eac50)
