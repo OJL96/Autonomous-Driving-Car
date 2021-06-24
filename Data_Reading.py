@@ -62,15 +62,6 @@ def read_holdout_imgs(filename, colour, resize):
     # remove column used for sorting
     holdout = [r.pop(1) for r in holdout]
     pk.dump(holdout, open(filename, 'wb'))
-    
-# Manual Shuffle function
-def shuffle_sets(X, y):
-    
-    concat_data = list(zip(X, y))
-    np.random.shuffle(concat_data)
-    X, y = list(zip(*concat_data))
-    
-    return np.asarray(X), np.asarray(y)
 
 read_holdout_imgs( "Holdout_RGB_Resized.pkl", (80,60), cv.COLOR_BGR2RGB)
 read_data_imgs("Data_RGB_Not_Resized_turn.pkl", (80,60), cv.COLOR_BGR2RGB)
