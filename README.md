@@ -1,4 +1,4 @@
-# Programming an Autonomous Driving Car using Deep Learning and Object Detection
+# _Programming an Autonomous Driving Car using Deep Learning and Object Detection_
 
 ### Contents
 > [Kaggle Challenege](https://www.kaggle.com/c/machine-learning-in-science-2021)
