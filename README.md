@@ -7,6 +7,6 @@
 
 > [Presentation of Methodology](https://web.microsoftstream.com/video/9c2bc0a1-8020-42a4-b12c-dda15e6eac50)
 
-> [Live Testing](https://youtu.be/YwOy9E1MHm0)
+> [Model Testing](https://youtu.be/YwOy9E1MHm0)
 
 
